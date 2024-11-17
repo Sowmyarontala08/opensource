@@ -1,5 +1,5 @@
 N = int(input().strip())
-if 3 <= N <= 8:
+if 3 <= N <= 5:
     print("Spring")
 elif 6 <= N <= 8:
     print("Summer")
